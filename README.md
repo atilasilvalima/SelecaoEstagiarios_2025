@@ -5,6 +5,14 @@ Seleção de estagiários para a Escola de Gestão Pública do Estado do Ceará
 
 
 
+## ⏲️ Como será a seleção
+
+
+```bash
+  Será realizado uma prática para todas as áreas e uma entrevista individual
+```
+
+
 ## 💻Seleção de Programação
 
 
@@ -29,3 +37,9 @@ AAA
 
 AAA
 
+## ⏲️ Tempo de atividade prática
+
+
+```bash
+  02h e 30 minutos
+```
