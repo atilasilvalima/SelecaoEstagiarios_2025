@@ -22,20 +22,16 @@ Você deve criar uma página web semelhante/igual a imagem abaixo
 
 O arquivo deverá ser aberto no navegador quando for executado
 
-## 🌐Seleção de Redes
-
-
-AAA
 
 ## 📹Seleção de Multimídia
 
 
-AAA
+Criar um vídeo de 40s da Escola de Gestão Pública (Sugestão: Captar imagens externas e de salas de aula que não tenham nenhuma formação)
 
 ## 🎨Seleção Design
 
 
-AAA
+Criar dois cards, um para o Dia dos Pais e outro para o Dia do Advogado
 
 ## ⏲️ Tempo de atividade prática
 
