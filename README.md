@@ -22,6 +22,34 @@ Você deve criar uma página web semelhante/igual a imagem abaixo
 
 O arquivo deverá ser aberto no navegador quando for executado
 
+## Textos utilizados
+
+```javascript
+■ Sobre a EGPCE
+
+A Escola de Gestão Pública do Estado do Ceará (EGPCE), criada pela Lei 14.335 de 2009, é um órgão da Administração Direta, vinculada à Secretaria do Planejamento e Gestão (Seplag), que desenvolve ações de capacitação para os gestores, servidores e empregados públicos, possibilitando o desenvolvimento pessoal e profissional, com o objetivo de elevar o padrão de qualidade e agilidade do serviço público no Estado do Ceará.
+
+■ Valores da EGPCE
+
+Aprendizagem com protagonismo
+Desenvolvimento de competências de impacto
+Compromisso com o servidor público e a sociedade
+
+Integração na gestão pública
+Ética no relacionamento com a sociedade
+Inovação
+
+■ Objetivos Estratégicos
+
+• Gestão de Projetos Públicos
+Aprenda a estruturar, planejar e gerenciar projetos no setor público com foco em resultados e impacto social.
+
+• Ética no Serviço Público
+Compreenda os princípios éticos que regem a administração pública e sua importância para uma atuação íntegra e transparente.
+
+• Transformação Digital no Governo
+Descubra como as inovações tecnológicas estão revolucionando a gestão pública e contribuindo para a modernização dos serviços ao cidadão.
+```
 
 ## 📹Seleção de Multimídia
 
